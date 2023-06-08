@@ -1,4 +1,4 @@
-.nature{
+*{
     padding: 0;
     margin: 0%
 }
@@ -100,7 +100,7 @@ div h1{
 }
 div p{
     color: #ffffff;
-    margin: 20px;
+    margin: 5px;
     margin-left: 80px;
     font-size: 20px;
     display: flex;
