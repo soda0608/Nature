@@ -1,0 +1,115 @@
+.nature{
+    padding: 0;
+    margin: 0%
+}
+
+.principale {
+    display: flex;
+    justify-content: space-evenly;
+}
+header{
+    background-image: url(./polynesia-3021072_1280.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-bottom: 0px;
+    
+
+}
+.logo a{
+    color: #fff;
+    padding: 10px 20px; 
+    position: absolute;
+    top: 0PX;
+    left: 10px;
+    text-decoration: none;
+    font-weight: 900;
+    margin: 10px;
+    font-size: 20px;
+    
+    
+}
+ul{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+    padding-right: 50px;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 20px;
+    margin: 0px;
+    font-weight: 400;
+}
+ul li a{
+    list-style: none;
+    justify-content: left;
+    display: flex;
+    padding-left: 50px;
+}
+.icon a{
+    color: #ffffff;
+    padding: 10px 20px; 
+    position: relative;
+    margin: 10px;
+    right: 0px;
+    top: 30%;
+
+}
+
+
+.secondaire {
+background-image: url(nature\ 3.webp);
+height: 100vh;
+background-size: cover;
+background-position: center;
+
+
+
+}
+
+.terciaire {
+    background-image: url(nature.webp);
+    height: 100vh;
+background-size: cover;
+background-position: center;
+text-align: center;
+
+}
+
+.noire {
+    background-image: url(noir\ et\ blanc.jpeg);
+    height: 140vh;
+background-size: cover;
+background-position: center;
+text-align: center;
+
+}
+div h1{
+    color: #fff;
+    margin-left: 80px;
+    display: flex;
+    margin-top: 0px;
+    font-size: 60px;
+    padding-top: 300px;
+
+}
+div p{
+    color: #ffffff;
+    margin: 20px;
+    margin-left: 80px;
+    font-size: 20px;
+    display: flex;
+
+}
+
+
+
+
+
+
+
